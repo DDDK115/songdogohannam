@@ -175998,7 +175998,7 @@
             "s5":71,
             "s6":79
         },
-        "isPitcher":true
+        "isPitcher":false
     },
     {
         "playerName":"최원준B",
@@ -176019,6 +176019,6 @@
             "s5":73,
             "s6":79
         },
-        "isPitcher":true
+        "isPitcher":false
     }
 ]

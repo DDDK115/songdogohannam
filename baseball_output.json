@@ -175999,5 +175999,26 @@
             "s6":79
         },
         "isPitcher":true
+    },
+    {
+        "playerName":"최원준B",
+        "originalOvr":79,
+        "stars":4,
+        "description":"여름사나이",
+        "team":"KT",
+        "year":null,
+        "position":"CF",
+        "type":"임팩트",
+        "setDeckScore":4,
+        "originalStates":{
+            "level":0,
+            "s1":78,
+            "s2":95,
+            "s3":78,
+            "s4":75,
+            "s5":73,
+            "s6":79
+        },
+        "isPitcher":true
     }
 ]
